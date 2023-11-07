@@ -11,7 +11,7 @@ def bas_diagonal_ortalama_hesapla(A):
     ortalama = toplam / n
     
     return ortalama
-A = np.array[[1, 2, 3],
+A = [[1, 2, 3],
      [4, 5, 6],
      [7, 8, 9]]
 
